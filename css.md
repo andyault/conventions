@@ -58,11 +58,12 @@ $fontBody: helvetica, arial, sans-serif;
   
   //style
   font/font-family/font-size/font-weight/font-style: ;
+  text-align: ;
   line-height: ;
   text-transform/text-decoration: ;
   color: ;
   background: ;
-  border/border-width/border-style/border-color: ;
+  border/border-width/border-color/border-style/border-radius: ;
   
   //animations/transitions
   animation/animation-name/animation-duration: ;
